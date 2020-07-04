@@ -1,0 +1,11 @@
+D:\Programming\GitHub Repos\cs-testing\CSTesting\obj\Debug\netcoreapp2.1\CSTesting.csprojAssemblyReference.cache
+D:\Programming\GitHub Repos\cs-testing\CSTesting\obj\Debug\netcoreapp2.1\CSTesting.csproj.CoreCompileInputs.cache
+D:\Programming\GitHub Repos\cs-testing\CSTesting\obj\Debug\netcoreapp2.1\CSTesting.AssemblyInfoInputs.cache
+D:\Programming\GitHub Repos\cs-testing\CSTesting\obj\Debug\netcoreapp2.1\CSTesting.AssemblyInfo.cs
+D:\Programming\GitHub Repos\cs-testing\CSTesting\bin\Debug\netcoreapp2.1\CSTesting.deps.json
+D:\Programming\GitHub Repos\cs-testing\CSTesting\bin\Debug\netcoreapp2.1\CSTesting.runtimeconfig.json
+D:\Programming\GitHub Repos\cs-testing\CSTesting\bin\Debug\netcoreapp2.1\CSTesting.runtimeconfig.dev.json
+D:\Programming\GitHub Repos\cs-testing\CSTesting\bin\Debug\netcoreapp2.1\CSTesting.dll
+D:\Programming\GitHub Repos\cs-testing\CSTesting\bin\Debug\netcoreapp2.1\CSTesting.pdb
+D:\Programming\GitHub Repos\cs-testing\CSTesting\obj\Debug\netcoreapp2.1\CSTesting.dll
+D:\Programming\GitHub Repos\cs-testing\CSTesting\obj\Debug\netcoreapp2.1\CSTesting.pdb
